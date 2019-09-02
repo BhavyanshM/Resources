@@ -1,0 +1,54 @@
+ORB-SLAM: A Versatile and Accurate Monocular SLAM System
+Are we ready for autonomous driving? The KITTI vision benchmark suite
+ORB-SLAM2: An Open-Source SLAM System for Monocular, Stereo, and RGB-D Cameras
+Real-time simultaneous localisation and mapping with a single camera
+A benchmark for the evaluation of RGB-D SLAM systems
+Visual Odometry and Mapping for Autonomous Flight Using an RGB-D Camera
+Keyframe-based visual–inertial odometry using nonlinear optimization
+Bags of Binary Words for Fast Place Recognition in Image Sequences
+ElasticFusion: Dense SLAM without a Pose Graph
+FrameSLAM: From Bundle Adjustment to Real-Time Visual Mapping
+Large-scale direct SLAM with stereo cameras
+Real-time large-scale dense RGB-D SLAM with volumetric fusion
+SeqSLAM: Visual route-based navigation for sunny summer days and stormy winter nights
+3-D Mapping With an RGB-D Camera
+Visual Odometry : Part II: Matching, Robustness, Optimization, and Applications
+Fast and Incremental Method for Loop-Closure Detection Using Bags of Visual Words
+Parallel Tracking and Mapping on a camera phone
+Dense visual SLAM for RGB-D cameras
+SVO: Semidirect Visual Odometry for Monocular and Multicamera Systems
+DeMoN: Depth and Motion Network for Learning Monocular Stereo
+A benchmark for RGB-D visual odometry, 3D reconstruction and SLAM
+Visual-Inertial Monocular SLAM With Map Reuse
+Semi-dense Visual Odometry for a Monocular Camera
+CNN-SLAM: Real-Time Dense Monocular SLAM With Learned Depth Prediction
+Vision based MAV navigation in unknown and unstructured environments
+Camera-based navigation of a low-cost quadrocopter
+Robust real-time visual odometry for dense RGB-D mapping
+Outdoor SLAM using visual appearance and laser ranging
+Large-Scale 6-DOF SLAM With Stereo-in-Hand
+Mapping a Suburb With a Single Camera Using a Biologically Inspired SLAM System
+Vision-based autonomous mapping and exploration using a quadrotor MAV
+Monocular visual odometry in urban environments using an omnidirectional camera
+Visual-Inertial-Aided Navigation for High-Dynamic Motion in Built Environments Without Initial Conditions
+Large-scale direct SLAM for omnidirectional cameras
+The vSLAM Algorithm for Robust Localization and Mapping
+Double window optimisation for constant time visual SLAM
+SURF features for efficient robot localization with omnidirectional images
+Direct visual-inertial odometry with stereo cameras
+On the performance of ConvNet features for place recognition
+Direct Sparse Odometry
+Efficient View-Based SLAM Using Visual Loop Closures
+A synchronized visual-inertial sensor system with FPGA pre-processing for accurate real-time SLAM
+Visual SLAM algorithms: a survey from 2010 to 2016
+Real-Time Visual SLAM for Autonomous Underwater Hull Inspection Using Visual Saliency
+SLAM-Loop Closing with Visually Salient Features
+Pose Estimation for Augmented Reality: A Hands-On Survey
+BRIEF-Gist - closing the loop by simple means
+Stereo parallel tracking and mapping for robot localization
+PL-SLAM: Real-time monocular visual SLAM with points and lines
+An Efficient Direct Approach to Visual SLAM
+Stereo DSO: Large-Scale Direct Sparse Visual Odometry With Stereo Cameras
+Simultaneous localization and mapping with infinite planes
+Visual-inertial direct SLAM
+EVO: A Geometric Approach to Event-Based 6-DOF Parallel Tracking and Mapping in Real Time
